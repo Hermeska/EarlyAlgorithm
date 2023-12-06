@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/MiptEarly.dir/test.cpp.o CMakeFiles/MiptEarly.dir/main.cpp.o -o MiptEarly 

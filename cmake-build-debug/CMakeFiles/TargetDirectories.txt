@@ -1,0 +1,3 @@
+/mnt/c/MiptEarly/cmake-build-debug/CMakeFiles/MiptEarly.dir
+/mnt/c/MiptEarly/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/MiptEarly/cmake-build-debug/CMakeFiles/rebuild_cache.dir

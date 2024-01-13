@@ -1,0 +1,5 @@
+if(EXISTS "/mnt/c/Parsing-master/cmake-build-debug/tests/CTest[1]_tests.cmake")
+  include("/mnt/c/Parsing-master/cmake-build-debug/tests/CTest[1]_tests.cmake")
+else()
+  add_test(CTest_NOT_BUILT CTest_NOT_BUILT)
+endif()

@@ -1,0 +1,3 @@
+xxx
+<letter> ::= "a" | "b" | "c"|
+<xxx> ::= <xxx> <xxx> | <letter>|
